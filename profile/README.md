@@ -5,6 +5,7 @@
 This workspace contains the Smart Restaurant System, a multi-application platform consisting of four interconnected repositories. This document serves as the central navigation guide to all project documentation.
 
 The Github organization hosting this workspace is: https://github.com/K23-Smart-Restaurant
+
 The demo video can be found on Youtube: https://youtu.be/l-kez8bRPS0
 
 ## Primary Documentation
