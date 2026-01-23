@@ -12,20 +12,20 @@ The demo video can be found on Youtube: https://youtu.be/l-kez8bRPS0
 
 The comprehensive system documentation is located in the **smart-restaurant-root** repository:
 
-**[Smart Restaurant Root - Main README](smart-restaurant-root/README.md)**
+**[Smart Restaurant Root - Main README](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/README.md)**
 
 This is the primary reference document containing complete system information, setup instructions, architecture, and operational guides.
 
 ### General Documentation
 
-The [smart-restaurant-root/docs/general](smart-restaurant-root/docs/general/) directory contains essential system-wide documentation:
+The [smart-restaurant-root/docs/general](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/tree/main/docs/general) directory contains essential system-wide documentation:
 
-- [ARCHITECTURE.md](smart-restaurant-root/docs/general/ARCHITECTURE.md) - System architecture and design principles
-- [DATABASE_DESIGN.md](smart-restaurant-root/docs/general/DATABASE_DESIGN.md) - Database schema and relationships
-- [DATABASE_SETUP.md](smart-restaurant-root/docs/general/DATABASE_SETUP.md) - Database installation and configuration
-- [SETUP.md](smart-restaurant-root/docs/general/SETUP.md) - System setup and deployment instructions
-- [USER_GUIDE.md](smart-restaurant-root/docs/general/USER_GUIDE.md) - User guide and operational procedures
-- [CICD.md](smart-restaurant-root/docs/general/CICD.md) - Continuous integration and deployment guidelines
+- [ARCHITECTURE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/ARCHITECTURE.md) - System architecture and design principles
+- [DATABASE_DESIGN.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/DATABASE_DESIGN.md) - Database schema and relationships
+- [DATABASE_SETUP.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/DATABASE_SETUP.md) - Database installation and configuration
+- [SETUP.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/SETUP.md) - System setup and deployment instructions
+- [USER_GUIDE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/USER_GUIDE.md) - User guide and operational procedures
+- [CICD.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/CICD.md) - Continuous integration and deployment guidelines
 
 ## Repository Structure
 
@@ -33,81 +33,81 @@ The workspace is organized into four primary directories:
 
 ### 1. Smart Restaurant Root
 
-**Directory**: [smart-restaurant-root](smart-restaurant-root/)
+**Directory**: [smart-restaurant-root](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/)
 
 **Purpose**: Shared database schema, migrations, Docker orchestration, and system-wide documentation
 
-**Documentation**: [smart-restaurant-root/docs](smart-restaurant-root/docs/)
+**Documentation**: [smart-restaurant-root/docs](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/tree/main/docs)
 
 ### 2. Smart Restaurant Admin
 
-**Directory**: [smart-restaurant-admin](smart-restaurant-admin/)
+**Directory**: [smart-restaurant-admin](https://github.com/K23-Smart-Restaurant/smart-restaurant-admin/)
 
 **Purpose**: Restaurant management and kitchen display system
 
-**Documentation**: [smart-restaurant-admin/docs](smart-restaurant-admin/docs/)
+**Documentation**: [smart-restaurant-admin/docs](https://github.com/K23-Smart-Restaurant/smart-restaurant-admin/tree/main/docs/)
 
 Key documentation files:
 
-- [API_REFERENCE.md](smart-restaurant-admin/docs/API_REFERENCE.md) - Admin API endpoints
-- [ARCHITECTURE.md](smart-restaurant-admin/docs/ARCHITECTURE.md) - Application architecture
-- [DATABASE_DESIGN.md](smart-restaurant-admin/docs/DATABASE_DESIGN.md) - Database schema reference
-- [SETUP.md](smart-restaurant-admin/docs/SETUP.md) - Installation guide
-- [USER_GUIDE.md](smart-restaurant-admin/docs/USER_GUIDE.md) - Admin application user guide
+- [API_REFERENCE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-admin/blob/main/docs/API_REFERENCE.md) - Admin API endpoints
+- [ARCHITECTURE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-admin/blob/main/docs/ARCHITECTURE.md) - Application architecture
+- [DATABASE_DESIGN.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-admin/blob/main/docs/DATABASE_DESIGN.md) - Database schema reference
+- [SETUP.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-admin/blob/main/docs/SETUP.md) - Installation guide
+- [USER_GUIDE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-admin/blob/main/docs/USER_GUIDE.md) - Admin application user guide
 
 ### 3. Smart Restaurant Customer
 
-**Directory**: [smart-restaurant-customer](smart-restaurant-customer/)
+**Directory**: [smart-restaurant-customer](https://github.com/K23-Smart-Restaurant/smart-restaurant-customer/)
 
 **Purpose**: Customer-facing QR ordering and payment application
 
-**Documentation**: [smart-restaurant-customer/docs](smart-restaurant-customer/docs/)
+**Documentation**: [smart-restaurant-customer/docs](https://github.com/K23-Smart-Restaurant/smart-restaurant-customer/tree/main/docs/)
 
 Key documentation files:
 
-- [API_REFERENCE.md](smart-restaurant-customer/docs/API_REFERENCE.md) - Customer API endpoints
-- [ARCHITECTURE.md](smart-restaurant-customer/docs/ARCHITECTURE.md) - Application architecture
-- [DATABASE_DESIGN.md](smart-restaurant-customer/docs/DATABASE_DESIGN.md) - Database schema reference
-- [SETUP.md](smart-restaurant-customer/docs/SETUP.md) - Installation guide
-- [USER_GUIDE.md](smart-restaurant-customer/docs/USER_GUIDE.md) - Customer application user guide
+- [API_REFERENCE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-customer/blob/main/docs/API_REFERENCE.md) - Customer API endpoints
+- [ARCHITECTURE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-customer/blob/main/docs/ARCHITECTURE.md) - Application architecture
+- [DATABASE_DESIGN.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-customer/blob/main/docs/DATABASE_DESIGN.md) - Database schema reference
+- [SETUP.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-customer/blob/main/docs/SETUP.md) - Installation guide
+- [USER_GUIDE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-customer/blob/main/docs/USER_GUIDE.md) - Customer application user guide
 
 ### 4. Smart Restaurant Super Admin
 
-**Directory**: [smart-restaurant-super-admin](smart-restaurant-super-admin/)
+**Directory**: [smart-restaurant-super-admin](https://github.com/K23-Smart-Restaurant/smart-restaurant-super-admin/)
 
 **Purpose**: Platform administration and multi-tenant management
 
-**Documentation**: [smart-restaurant-super-admin/docs](smart-restaurant-super-admin/docs/)
+**Documentation**: [smart-restaurant-super-admin/docs](https://github.com/K23-Smart-Restaurant/smart-restaurant-super-admin/tree/main/docs/)
 
 Key documentation files:
 
-- [API_REFERENCE.md](smart-restaurant-super-admin/docs/API_REFERENCE.md) - SuperAdmin API endpoints
-- [ARCHITECTURE.md](smart-restaurant-super-admin/docs/ARCHITECTURE.md) - Application architecture
-- [DATABASE_DESIGN.md](smart-restaurant-super-admin/docs/DATABASE_DESIGN.md) - Database schema reference
-- [SETUP.md](smart-restaurant-super-admin/docs/SETUP.md) - Installation guide
-- [USER_GUIDE.md](smart-restaurant-super-admin/docs/USER_GUIDE.md) - SuperAdmin user guide
+- [API_REFERENCE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-super-admin/blob/main/docs/API_REFERENCE.md) - SuperAdmin API endpoints
+- [ARCHITECTURE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-super-admin/blob/main/docs/ARCHITECTURE.md) - Application architecture
+- [DATABASE_DESIGN.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-super-admin/blob/main/docs/DATABASE_DESIGN.md) - Database schema reference
+- [SETUP.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-super-admin/blob/main/docs/SETUP.md) - Installation guide
+- [USER_GUIDE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-super-admin/blob/main/docs/USER_GUIDE.md) - SuperAdmin user guide
 
 ## Repository Statistics
 
 Development activity and code metrics for each application:
 
-- [Admin Statistics](smart-restaurant-root/docs/stats/admin/) - Commit history and code counts
-- [Customer Statistics](smart-restaurant-root/docs/stats/customer/) - Commit history and code counts
-- [SuperAdmin Statistics](smart-restaurant-root/docs/stats/super-admin/) - Commit history and code counts
+- [Admin Statistics](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/tree/main/docs/stats/admin/) - Commit history and code counts
+- [Customer Statistics](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/tree/main/docs/stats/customer/) - Commit history and code counts
+- [SuperAdmin Statistics](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/tree/main/docs/stats/super-admin/) - Commit history and code counts
 
 ## Navigation Guide
 
 ### For System Setup and Deployment
 
-Begin with [smart-restaurant-root/README.md](smart-restaurant-root/README.md) and refer to [SETUP.md](smart-restaurant-root/docs/general/SETUP.md) for comprehensive setup instructions.
+Begin with [smart-restaurant-root/README.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/README.md) and refer to [SETUP.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/SETUP.md) for comprehensive setup instructions.
 
 ### For Architecture and Design
 
-Consult [ARCHITECTURE.md](smart-restaurant-root/docs/general/ARCHITECTURE.md) for system-wide architecture and individual application architecture documents in their respective `docs/` folders.
+Consult [ARCHITECTURE.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/ARCHITECTURE.md) for system-wide architecture and individual application architecture documents in their respective `docs/` folders.
 
 ### For Database Information
 
-Reference [DATABASE_DESIGN.md](smart-restaurant-root/docs/general/DATABASE_DESIGN.md) for the complete database schema and [DATABASE_SETUP.md](smart-restaurant-root/docs/general/DATABASE_SETUP.md) for installation procedures.
+Reference [DATABASE_DESIGN.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/DATABASE_DESIGN.md) for the complete database schema and [DATABASE_SETUP.md](https://github.com/K23-Smart-Restaurant/smart-restaurant-root/blob/main/docs/general/DATABASE_SETUP.md) for installation procedures.
 
 ### For API Integration
 
